@@ -6,11 +6,11 @@
 
 I'm a self-taught AI systems engineer and Information Systems student at NJIT, building production software from Paterson, NJ.
 
-🤖 I architect multi-agent AI platforms and production SaaS — real clients, not demos
+🤖 I architect multi-agent AI platforms and production SaaS | real clients, not demos
 
-🔭 Currently scaling **Agentop** — local-first multi-agent OS with 11 agents, 47 tools, and a custom-trained 3B LLM router
+🔭 Currently scaling **Agentop** | local-first multi-agent OS with 11 agents, 47 tools, and a custom-trained 3B LLM router
 
-📞 Built an **AI Voice Receptionist** (FastAPI + Twilio + GPT-4 + RAG) — live NJ businesses on waitlist
+📞 Built an **AI Voice Receptionist** (FastAPI + Twilio + GPT-4 + RAG) | live NJ businesses on waitlist
 
 🏠 Running a home lab Kubernetes cluster with Netdata, Uptime Kuma, AdGuard DNS, and a browser-worker pod
 
@@ -114,8 +114,8 @@ Here's what I actually build with:
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=as4584&theme=tokyonight" alt="GitHub Profile Summary">
   <br><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=as4584&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" alt="Top Languages">
-  <img src="https://github-readme-stats.vercel.app/api?username=as4584&theme=tokyonight&show_icons=true&hide_border=true" alt="GitHub Stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=as4584&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" alt="Top Languages">
+  <img src="https://streak-stats.demolab.com?user=as4584&theme=tokyonight&hide_border=true" alt="GitHub Streak">
 </div>
 
 <br>
