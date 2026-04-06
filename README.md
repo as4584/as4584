@@ -1,9 +1,8 @@
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 
-<h1>Hey, I'm Lex (Alexander Santiago) <img src="https://media0.giphy.com/media/88F9oFkKBsblZ4K40r/giphy.gif" height="200px" width="200px" align="right">
-</h1>
+<h1>Hey, I'm Lex (Alexander Santiago) <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32px"></h1>
 
-<img src="https://media0.giphy.com/media/kg4yoaDX9TEZraB4qb/giphy.gif" width="32px">
+<img src="https://media0.giphy.com/media/88F9oFkKBsblZ4K40r/giphy.gif" height="200px" width="200px" align="right">
 
 I'm a self-taught AI systems engineer and Information Systems student at NJIT, building production software from Paterson, NJ.
 
@@ -115,7 +114,7 @@ Here's what I actually build with:
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=as4584&theme=tokyonight" alt="GitHub Profile Summary">
   <br><br>
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=as4584&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" alt="Top Languages">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=as4584&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" alt="Top Languages">
   <img src="https://streak-stats.demolab.com?user=as4584&theme=tokyonight&hide_border=true" alt="GitHub Streak">
 </div>
 
