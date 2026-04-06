@@ -2,16 +2,21 @@
 
 <h1>Hey, I'm Lex (Alexander Santiago) <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32px"></h1>
 
-<img src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif" height="200px" width="300px" align="right">
+<img src="https://media0.giphy.com/media/88F9oFkKBsblZ4K40r/giphy.gif" height="200px" width="200px" align="right">
 
 I'm a self-taught AI systems engineer and Information Systems student at NJIT, building production software from Paterson, NJ.
 
-- 🤖 I architect multi-agent AI platforms and production SaaS — not just demos, real clients
-- 🔭 Currently scaling **Agentop** — a local-first multi-agent OS with 11 agents, 47 tools, and a custom-trained 3B LLM router
-- 📞 Built an **AI Voice Receptionist** (FastAPI + Twilio + GPT-4 + RAG) — live NJ businesses on waitlist
-- 🏠 Running a home lab Kubernetes cluster with Netdata, Uptime Kuma, AdGuard DNS, and a browser-worker pod
-- 💼 First-generation college student. Cold-called businesses in Paterson to find my first clients
-- 📫 Reach me at: **as42519256@gmail.com** or **lexmakesit.com**
+🤖 I architect multi-agent AI platforms and production SaaS — real clients, not demos
+
+🔭 Currently scaling **Agentop** — local-first multi-agent OS with 11 agents, 47 tools, and a custom-trained 3B LLM router
+
+📞 Built an **AI Voice Receptionist** (FastAPI + Twilio + GPT-4 + RAG) — live NJ businesses on waitlist
+
+🏠 Running a home lab Kubernetes cluster with Netdata, Uptime Kuma, AdGuard DNS, and a browser-worker pod
+
+💼 First-generation college student from Paterson, NJ. Cold-called local businesses to find my first clients
+
+📫 Reach me at **as42519256@gmail.com** or **lexmakesit.com**
 
 ### Are you an employer?
 > [!IMPORTANT]
