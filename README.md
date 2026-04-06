@@ -1,6 +1,7 @@
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 
-<h1>Hey, I'm Lex (Alexander Santiago) <img src="https://media0.giphy.com/media/88F9oFkKBsblZ4K40r/giphy.gif" height="200px" width="200px" align="right"></h1>
+<h1>Hey, I'm Lex (Alexander Santiago) <img src="https://media0.giphy.com/media/88F9oFkKBsblZ4K40r/giphy.gif" height="200px" width="200px" align="right">
+</h1>
 
 <img src="https://media0.giphy.com/media/kg4yoaDX9TEZraB4qb/giphy.gif" width="32px">
 
