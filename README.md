@@ -114,7 +114,7 @@ Here's what I actually build with:
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=as4584&theme=tokyonight" alt="GitHub Profile Summary">
   <br><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=as4584&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" alt="Top Languages">
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=as4584&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" alt="Top Languages">
   <img src="https://streak-stats.demolab.com?user=as4584&theme=tokyonight&hide_border=true" alt="GitHub Streak">
 </div>
 
