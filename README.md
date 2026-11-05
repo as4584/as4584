@@ -1,125 +1,145 @@
 <img src="assets/line-neon.gif" width="100%">
 
-# Hey, I'm Alexander Santiago (Lex) 👋
+<h1>Hey, I'm Alexander(Lex) 👋</h1>
 
-Computer Science student at PCCC and founder of **Lexmakesit**, based in Paterson, NJ.
+<img src="assets/waving-cat.gif" height="200px" width="200px" align="right" alt="Waving cat">
 
-I build full-stack and AI-powered software for real clients and my own products, and I self-host most of it on my own hardware. I am finishing my AS in Computer Science (expected Fall 2027) while running Lexmakesit, and I am looking for software engineering roles and internships where I can ship real products.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?color=7AA2F7&center=true&vCenter=true&width=600&lines=Full-Stack+Software+Developer;Founder+of+Lexmakesit;I+build+production+software+for+real+clients;Computer+Science+student+at+PCCC" alt="Full-Stack Software Developer, Founder of Lexmakesit">
+</p>
+<br>
+<br>
 
-First-generation college student. I found my first clients by cold-calling local businesses, and I still build like it: real users, real software, no demos.
+Solo founder of **Lexmakesit**. I build production software for real clients and run it on my own servers.
 
-## Featured work
+The proof is in daily use: a point of sale system a working bakery runs on every day, a reseller app backed by more than 1,000 automated tests, and client projects shipped end to end, from first call to production.
 
-1. **[Agentops](https://github.com/as4584/Agentops)** — Local-first multi-agent AI platform. A FastAPI, LangGraph, and Next.js control center for running and observing AI agents on my own hardware. My largest system.
-2. **[Vendora](https://github.com/as4584/Vendora)** — Reseller operations app. React Native, FastAPI, and PostgreSQL with inventory, sales, and POS workflows, Stripe payments, and Docker.
-3. **[Full-Stack-app](https://github.com/as4584/Full-Stack-app)** — AI phone receptionist platform. A FastAPI voice agent that answers calls and books appointments, built with Twilio and realtime voice AI. The core product behind Lexmakesit.
-4. **[DropWave](https://github.com/as4584/dropwave)** — Offline-first personal music app. Expo and React Native with a FastAPI backend and an on-device SQLite library. The repo README has a demo video of it running on my iPhone.
-5. **[Lexmakesit](https://github.com/as4584/lexmakesit)** — My business workspace: the AI receptionist, my portfolio site, and client project tooling.
-6. **[Neon District Autopilot](https://github.com/as4584/neon-district-autopilot)** — Windows-native automation case study for a music publishing channel, built with guarded, local AI model trials.
-7. **[Item Manager](https://github.com/as4584/Item_manager)** — Inventory management system with Lightspeed X-Series integration and Google Sheets sync. The early build in the line that led to Vendora.
+Underneath that, I am a Computer Science student at PCCC in Paterson, NJ, finishing my AS (expected Fall 2027). I am a first-generation college student, and I found my first clients by cold-calling local businesses. I still build like it: real users, real software, no demos. <br>
+- Right now I am building StudyHelp and Vendora, and shipping client work through Lexmakesit <br>
+- Outside tech: guitar, football, and Marvel Rivals <br>
+- Fastest ways to reach me are LinkedIn and the email in the footer below
 
-Also: **BakeryPOS**, a point-of-sale system I built for La Jarochita Bakery in Passaic, NJ (.NET 8, WPF, SQLite).
+[![GitHub followers](https://img.shields.io/github/followers/as4584?style=for-the-badge&logo=github)](https://github.com/as4584)
 
+### Are you an employer?
+> [!IMPORTANT]
+> I am looking for full-time roles and internships where I can ship real products. I work remote or within a commute of Paterson, NJ. If your team ships to real users, I want to talk. The fastest ways to reach me are [LinkedIn](https://www.linkedin.com/in/alexander-santiago-26a170292), [lexmakesit.com](https://lexmakesit.com), and the email in the footer below.
+
+<img src="assets/line-neon.gif" width="100%">
+
+<br><br>
+
+### Featured projects
+
+**🚀 Currently Working On: Vendora**
+<div align="center">
+  <a href="https://vendora.lexmakesit.com">
+    <img src="https://raw.githubusercontent.com/as4584/Vendora/main/mobile/assets/icon.png" width="120" alt="Vendora app icon" style="border-radius: 20px;">
+  </a>
+  <h3><a href="https://vendora.lexmakesit.com">Vendora, reseller operations app</a></h3>
+  <p>
+    <strong>Vendora</strong> is the operations app I am building for resellers, covering inventory, sales, and POS workflows in one place. It integrates Stripe payments plus eBay and StockX, and the backend runs at 95.8% test coverage with more than 1,000 tests.
+  </p>
+  <p>
+    Built with <strong>React Native</strong>, <strong>FastAPI</strong>, <strong>PostgreSQL</strong>, and <strong>Docker</strong>.
+  </p>
+  <p>
+    <a href="https://vendora.lexmakesit.com"><strong>Try it Live</strong></a> &nbsp;|&nbsp;
+    <a href="https://github.com/as4584/Vendora"><strong>💻 View Source</strong></a>
+  </p>
+  <p>
+    <img src="https://img.shields.io/github/stars/as4584/Vendora?style=for-the-badge&logo=github" alt="Vendora GitHub stars">
+  </p>
+</div>
+<br>
+
+<br><br>
+
+**My favorite completed project: BakeryPOS**
+<div align="center">
+  <h3><a href="https://github.com/as4584/BakeryPOS-release">BakeryPOS</a></h3>
+  <p>
+    A point of sale system I built solo for La Jarochita Bakery in Passaic, NJ. It is in daily use at the bakery. Production updates ship through the public release channel linked below, while the source stays private because it is client work.
+  </p>
+  <p>
+    Built with <strong>.NET 8</strong>, <strong>WPF</strong>, and <strong>SQLite</strong>.
+  </p>
+  <p>
+    <a href="https://github.com/as4584/BakeryPOS-release"><strong>Release Channel</strong></a>
+  </p>
+</div>
+<br>
+
+**Also pinned**
+
+- **[StudyHelp](https://github.com/as4584/StudyHelp)**: tutoring marketplace. Students get instant AI study help and escalate to vetted human tutors, with chat auto-translated between them. Built with Next.js, FastAPI, and Supabase.
+- **[Lexmakesit](https://github.com/as4584/lexmakesit)**: my studio workspace, home of the AI receptionist platform, my portfolio site, and the tooling behind my client projects. Built with Python and FastAPI.
+- **[Agentops](https://github.com/as4584/Agentops)**: local-first multi-agent AI platform, a control center for running and observing AI agents on my own hardware. Its README documents 1,165+ tests. Built with FastAPI, LangGraph, and Next.js.
+- **[Neon District Autopilot](https://github.com/as4584/neon-district-autopilot)**: documented automation case study running a music publishing channel with guarded local AI model trials. Built with Python.
+
+**Tech Stack**
 <img src="assets/divider.gif" width="100%">
-
-## Tech Stack
 
 Here's what I actually build with:
 
-#### Languages
+<h4>Languages</h4>
 
-![Python](https://img.shields.io/badge/-Python-000?style=for-the-badge&logo=python)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
+![Languages](https://skillicons.dev/icons?i=python,ts,js,cs,c,rust,kotlin,dart,mysql,bash,lua)
 
-#### Frontend and Mobile
+<h4>Frontend and Mobile</h4>
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Frontend and Mobile](https://skillicons.dev/icons?i=react,nextjs,flutter)
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 
-#### AI / ML
+<h4>AI and ML</h4>
 
+![AI and ML](https://skillicons.dev/icons?i=pytorch)
 ![LangGraph](https://img.shields.io/badge/LangGraph-000000?style=for-the-badge&logo=chainlink&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)
 
-#### Backend and APIs
+<h4>Backend and APIs</h4>
 
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Backend and APIs](https://skillicons.dev/icons?i=fastapi,flask,nodejs)
 ![Twilio](https://img.shields.io/badge/Twilio-F22F46?style=for-the-badge&logo=twilio&logoColor=white)
 ![Stripe](https://img.shields.io/badge/Stripe-626CD9?style=for-the-badge&logo=stripe&logoColor=white)
 
-#### Databases and Infrastructure
+<h4>Databases and Infrastructure</h4>
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+![Databases and Infrastructure](https://skillicons.dev/icons?i=postgres,sqlite,redis,docker,kubernetes,git)
 ![Qdrant](https://img.shields.io/badge/Qdrant-DC244C?style=for-the-badge&logo=qdrant&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-0080FF?style=for-the-badge&logo=digitalocean&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-#### Security and Networking
+<h4>Security and Networking</h4>
 
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-268BEE?style=for-the-badge&logo=kali-linux&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Security and Networking](https://skillicons.dev/icons?i=kali,linux)
 
-## More projects
+<h4>Currently Learning</h4>
 
-- **[CertForge](https://github.com/as4584/CertForge)** — AI study engine that generates practice exams and study material. Docker deployed, with SQLite FTS5 search and Qdrant.
-- **[Shore Eats](https://github.com/as4584/Food-service-app)** — Food delivery platform prototype with customer, driver, and admin apps. TypeScript, Expo, and FastAPI.
-- **[ReflectAI](https://github.com/as4584/reflectai)** — Local-first Android app (Kotlin) for capturing reflections and surfacing patterns over time.
-- **[Change Radar](https://github.com/as4584/repo-intelligence)** — Local-first tool that analyzes a repo before AI-assisted edits, so agent changes are safer.
-- **[Innovation Development Solutions](https://github.com/as4584/damianwebsite)** and **[ProBody](https://github.com/as4584/Probodyforlife)** — Client websites, designed, built, and deployed.
-- Earlier AI receptionist iterations: the [Gemini version](https://github.com/as4584/ai-receptionist-gemini-fastapi), a [templated version](https://github.com/as4584/cookie-cutter-receptionist), and a [voice bridge skeleton](https://github.com/as4584/Voice-csr-bot).
+- **C++**, through my coursework
+- **Network infrastructure and security**, self-study on my home lab
 
-## GitHub Stats
+**🔥 GitHub Stats**
+<img src="assets/divider.gif" width="100%">
 
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=as4584&theme=tokyonight" alt="GitHub Profile Summary">
-  <br><br>
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=as4584&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" alt="Top Languages">
-  <img src="https://streak-stats.demolab.com?user=as4584&theme=tokyonight&hide_border=true" alt="GitHub Streak">
+<div style="display: flex; justify-content: space-around; align-items: center; flex-wrap: wrap;">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=as4584&theme=tokyonight" alt="GitHub Profile Summary">
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=as4584&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" alt="Top Languages">
 </div>
 
 <br>
 
 <img src="https://komarev.com/ghpvc/?username=as4584&style=for-the-badge&color=blueviolet" alt="Profile Views">
 
-## Fun and experiments
-
-<img src="assets/waving-cat.gif" width="220" alt="Waving cat">
-
-- **[SigmaSimulator](https://github.com/as4584/SigmaSimulator)** — A Roblox game I am building with my girlfriend.
-- **[Raspberry Pi build](https://github.com/as4584/Raspberry-4-model-B-8gb-ram-)** — Tinkering log: testing a DIY car head unit and custom OS ideas on a budget.
-- Forks I run or learn from, including Odysseus and a Persona 3 fan site. Forks are other people's work, kept here because I use them.
-
-## Classwork
-
-My IS-218 and module coursework is on this account too, labeled as coursework and kept separate from the projects above.
-
-<img src="assets/line-neon.gif" width="100%">
-
-## Connect
+**📫 Reach out!**
+<img src="assets/divider.gif" width="100%">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alexander-santiago-26a170292)
 [![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://lexmakesit.com)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/as4584)
 
 Email: as42519256@gmail.com
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%">
