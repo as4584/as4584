@@ -1,11 +1,11 @@
 <img src="assets/line-neon.gif" width="100%">
 
-<h1>Hey, I'm Alexander(Lex) 👋</h1>
+<h1>Hey, I'm Alexander (Lex) Santiago 👋</h1>
 
 <img src="assets/waving-cat.gif" height="200px" width="200px" align="right" alt="Waving cat">
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?color=7AA2F7&center=true&vCenter=true&width=600&lines=Full-Stack+Software+Developer;Founder+of+Lexmakesit;I+build+production+software+for+real+clients;Computer+Science+student+at+PCCC" alt="Full-Stack Software Developer, Founder of Lexmakesit">
+  <img src="https://readme-typing-svg.herokuapp.com/?color=7AA2F7&center=true&vCenter=true&width=600&lines=AI+Engineer;Founder+of+Lexmakesit;Websites,+apps,+and+automations+for+real+clients;Computer+Science+student+at+PCCC" alt="AI Engineer, Founder of Lexmakesit">
 </p>
 <br>
 <br>
@@ -23,7 +23,9 @@ Underneath that, I am a Computer Science student at PCCC in Paterson, NJ, finish
 
 ### Are you an employer?
 > [!IMPORTANT]
-> I am looking for full-time roles and internships where I can ship real products. I work remote or within a commute of Paterson, NJ. If your team ships to real users, I want to talk. The fastest ways to reach me are [LinkedIn](https://www.linkedin.com/in/alexander-santiago-26a170292), [lexmakesit.com](https://lexmakesit.com), and the email in the footer below.
+> I am looking for AI engineering roles and internships. My work already runs in production: a point of sale system in daily use at a bakery, an AI voice platform handling live client calls, and a reseller app with 95.8% test coverage. I work remote or within a commute of Paterson, NJ, and I am authorized to work in the US.
+>
+> 📄 [My resume](https://github.com/as4584/as4584/blob/main/assets/Alexander-Santiago-Resume.pdf) · [LinkedIn](https://www.linkedin.com/in/alexander-santiago-26a170292) · [lexmakesit.com](https://lexmakesit.com) · or the email in the footer below.
 
 <img src="assets/line-neon.gif" width="100%">
 
@@ -91,8 +93,6 @@ Here's what I actually build with:
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
@@ -103,7 +103,6 @@ Here's what I actually build with:
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 
 <h4>AI and ML</h4>
 
@@ -141,6 +140,7 @@ Here's what I actually build with:
 
 - **C++**, through my coursework
 - **Network infrastructure and security**, self-study on my home lab
+- On deck: Android app development with Kotlin and Flutter, for an upcoming project
 
 **🔥 GitHub Stats**
 <img src="assets/divider.gif" width="100%">
