@@ -129,6 +129,10 @@ Here's what I actually build with:
     <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=as4584&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" alt="Top Languages">
 </div>
 
+<div align="center"><img src="https://raw.githubusercontent.com/as4584/as4584/output/github-contribution-grid-snake.svg" alt="Contribution snake animation"></div>
+
+<div align="center"><img src="profile-3d-contrib/profile-night-rainbow.svg" alt="3D contribution calendar"></div>
+
 <br>
 
 <img src="https://komarev.com/ghpvc/?username=as4584&style=for-the-badge&color=blueviolet" alt="Profile Views">
