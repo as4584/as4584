@@ -10,7 +10,7 @@
 <br>
 <br>
 
-Solo founder of **Lexmakesit**. I build production software for real clients and run it on my own servers.
+Solo founder of **Lexmakesit**. I build production software for real clients and run it on cloud servers and my own self-hosted infrastructure.
 
 The proof is in daily use: a point of sale system a working bakery runs on every day, a reseller app backed by more than 1,000 automated tests, and client projects shipped end to end, from first call to production.
 
@@ -57,6 +57,7 @@ Underneath that, I am a Computer Science student at PCCC in Paterson, NJ, finish
 
 **My favorite completed project: BakeryPOS**
 <div align="center">
+  <img src="assets/bakerypos-icon.png" width="120" alt="BakeryPOS" style="border-radius: 20px;">
   <h3><a href="https://github.com/as4584/BakeryPOS-release">BakeryPOS</a></h3>
   <p>
     A point of sale system I built solo for La Jarochita Bakery in Passaic, NJ. It is in daily use at the bakery. Production updates ship through the public release channel linked below, while the source stays private because it is client work.
@@ -84,37 +85,57 @@ Here's what I actually build with:
 
 <h4>Languages</h4>
 
-![Languages](https://skillicons.dev/icons?i=python,ts,js,cs,c,rust,kotlin,dart,mysql,bash,lua)
+![Python](https://img.shields.io/badge/-Python-000?style=for-the-badge&logo=python)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
 
 <h4>Frontend and Mobile</h4>
 
-![Frontend and Mobile](https://skillicons.dev/icons?i=react,nextjs,flutter)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 
 <h4>AI and ML</h4>
 
-![AI and ML](https://skillicons.dev/icons?i=pytorch)
 ![LangGraph](https://img.shields.io/badge/LangGraph-000000?style=for-the-badge&logo=chainlink&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)
 
 <h4>Backend and APIs</h4>
 
-![Backend and APIs](https://skillicons.dev/icons?i=fastapi,flask,nodejs)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![Twilio](https://img.shields.io/badge/Twilio-F22F46?style=for-the-badge&logo=twilio&logoColor=white)
 ![Stripe](https://img.shields.io/badge/Stripe-626CD9?style=for-the-badge&logo=stripe&logoColor=white)
 
 <h4>Databases and Infrastructure</h4>
 
-![Databases and Infrastructure](https://skillicons.dev/icons?i=postgres,sqlite,redis,docker,kubernetes,git)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Qdrant](https://img.shields.io/badge/Qdrant-DC244C?style=for-the-badge&logo=qdrant&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-0080FF?style=for-the-badge&logo=digitalocean&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 <h4>Security and Networking</h4>
 
-![Security and Networking](https://skillicons.dev/icons?i=kali,linux)
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-268BEE?style=for-the-badge&logo=kali-linux&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 <h4>Currently Learning</h4>
 
@@ -126,7 +147,6 @@ Here's what I actually build with:
 
 <div style="display: flex; justify-content: space-around; align-items: center; flex-wrap: wrap;">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=as4584&theme=tokyonight" alt="GitHub Profile Summary">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=as4584&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" alt="Top Languages">
 </div>
 
 <div align="center"><img src="https://raw.githubusercontent.com/as4584/as4584/output/github-contribution-grid-snake.svg" alt="Contribution snake animation"></div>
@@ -142,7 +162,6 @@ Here's what I actually build with:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alexander-santiago-26a170292)
 [![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://lexmakesit.com)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/as4584)
 
 Email: as42519256@gmail.com
 
