@@ -12,7 +12,7 @@
 
 Solo founder of **Lexmakesit**. I build production software for real clients and run it on cloud servers and my own self-hosted infrastructure.
 
-The proof is in daily use: a point of sale system a working bakery runs on every day, a reseller app backed by more than 1,000 automated tests, and client projects shipped end to end, from first call to production.
+The proof is in daily use: an item counter and sales and inventory system a working bakery runs on every day, a reseller app backed by more than 1,000 automated tests, and client projects shipped end to end, from first call to production.
 
 Underneath that, I am a Computer Science student at PCCC in Paterson, NJ, finishing my AS (expected Fall 2027). I am a first-generation college student, and I found my first clients by cold-calling local businesses. I still build like it: real users, real software, no demos. <br>
 - Right now I am building StudyHelp and Vendora, and shipping client work through Lexmakesit <br>
@@ -23,7 +23,7 @@ Underneath that, I am a Computer Science student at PCCC in Paterson, NJ, finish
 
 ### Are you an employer?
 > [!IMPORTANT]
-> I am looking for AI engineering roles and internships. My work already runs in production: a point of sale system in daily use at a bakery, and a reseller app with 95.8% test coverage. I also built an AI voice receptionist end to end as a class project, never deployed; it taught me the integrations and system design behind voice AI. I work remote or within a commute of Paterson, NJ, and I am authorized to work in the US.
+> I am looking for AI engineering roles and internships. My work already runs in production: an item counter and sales and inventory system in daily use at a bakery, and a reseller app with 95.8% test coverage. I also built an AI voice receptionist end to end as a class project, never deployed; it taught me the integrations and system design behind voice AI. I work remote or within a commute of Paterson, NJ, and I am authorized to work in the US.
 >
 > 📄 [My resume](https://github.com/as4584/as4584/blob/main/assets/Alexander-Santiago-Resume.pdf) · [LinkedIn](https://www.linkedin.com/in/alexander-santiago-26a170292) · [lexmakesit.com](https://lexmakesit.com) · or the email in the footer below.
 
@@ -62,7 +62,7 @@ Underneath that, I am a Computer Science student at PCCC in Paterson, NJ, finish
   <img src="assets/bakerypos-icon.png" width="120" alt="BakeryPOS" style="border-radius: 20px;">
   <h3><a href="https://github.com/as4584/BakeryPOS-release">BakeryPOS</a></h3>
   <p>
-    A point of sale system I built solo for La Jarochita Bakery in Passaic, NJ. It is in daily use at the bakery. Production updates ship through the public release channel linked below, while the source stays private because it is client work.
+    An item counter and sales and inventory system I built solo for La Jarochita Bakery in Passaic, NJ. It is in daily use at the bakery. Production updates ship through the public release channel linked below, while the source stays private because it is client work.
   </p>
   <p>
     Built with <strong>.NET 8</strong>, <strong>WPF</strong>, and <strong>SQLite</strong>.
