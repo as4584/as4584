@@ -23,7 +23,7 @@ Underneath that, I am a Computer Science student at PCCC in Paterson, NJ, finish
 
 ### Are you an employer?
 > [!IMPORTANT]
-> I am looking for AI engineering roles and internships. My work already runs in production: a point of sale system in daily use at a bakery, an AI voice platform handling live client calls, and a reseller app with 95.8% test coverage. I work remote or within a commute of Paterson, NJ, and I am authorized to work in the US.
+> I am looking for AI engineering roles and internships. My work already runs in production: a point of sale system in daily use at a bakery, and a reseller app with 95.8% test coverage. I also built an AI voice receptionist end to end as a class project, never deployed; it taught me the integrations and system design behind voice AI. I work remote or within a commute of Paterson, NJ, and I am authorized to work in the US.
 >
 > 📄 [My resume](https://github.com/as4584/as4584/blob/main/assets/Alexander-Santiago-Resume.pdf) · [LinkedIn](https://www.linkedin.com/in/alexander-santiago-26a170292) · [lexmakesit.com](https://lexmakesit.com) · or the email in the footer below.
 
