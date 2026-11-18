@@ -12,7 +12,7 @@
 
 Solo founder of **Lexmakesit**. I build production software for real clients and run it on cloud servers and my own self-hosted infrastructure.
 
-The proof is in daily use: an item counter and sales and inventory system a working bakery runs on every day, a reseller app backed by more than 1,000 automated tests, and client projects shipped end to end, from first call to production.
+The proof is in daily use: an item counter and sales and inventory system a working bakery runs on every day, a reseller app backed by 1,130 automated tests, and client projects shipped end to end, from first call to production.
 
 Underneath that, I am a Computer Science student at PCCC in Paterson, NJ, finishing my AS (expected Fall 2027). I am a first-generation college student, and I found my first clients by cold-calling local businesses. I still build like it: real users, real software, no demos. <br>
 - Right now I am building StudyHelp and Vendora, and shipping client work through Lexmakesit <br>
@@ -23,7 +23,7 @@ Underneath that, I am a Computer Science student at PCCC in Paterson, NJ, finish
 
 ### Are you an employer?
 > [!IMPORTANT]
-> I am looking for AI engineering roles and internships. My work already runs in production: an item counter and sales and inventory system in daily use at a bakery, and a reseller app with 95.8% test coverage. I also built an AI voice receptionist end to end as a class project, never deployed; it taught me the integrations and system design behind voice AI. I work remote or within a commute of Paterson, NJ, and I am authorized to work in the US.
+> I am looking for AI engineering roles and internships. My work already runs in production: an item counter and sales and inventory system in daily use at a bakery, and a reseller app with 1,130 automated tests at 95.39% test coverage. I also built an AI voice receptionist end to end as a class project, never deployed; it taught me the integrations and system design behind voice AI. I work remote or within a commute of Paterson, NJ, and I am authorized to work in the US.
 >
 > 📄 [My resume](https://github.com/as4584/as4584/blob/main/assets/Alexander-Santiago-Resume.pdf) · [LinkedIn](https://www.linkedin.com/in/alexander-santiago-26a170292) · [lexmakesit.com](https://lexmakesit.com) · or the email in the footer below.
 
@@ -40,7 +40,7 @@ Underneath that, I am a Computer Science student at PCCC in Paterson, NJ, finish
   </a>
   <h3><a href="https://vendora.lexmakesit.com">Vendora, reseller operations app</a></h3>
   <p>
-    <strong>Vendora</strong> is the operations app I am building for resellers, covering inventory, sales, and POS workflows in one place. It integrates Stripe payments plus eBay and StockX, and the backend runs at 95.8% test coverage with more than 1,000 tests.
+    <strong>Vendora</strong> is the operations app I am building for resellers, covering inventory and sales workflows in one place. It integrates Stripe payments plus eBay and StockX, and the backend runs 1,130 automated tests at 95.39% coverage.
   </p>
   <p>
     Built with <strong>React Native</strong>, <strong>FastAPI</strong>, <strong>PostgreSQL</strong>, and <strong>Docker</strong>.
@@ -75,6 +75,7 @@ Underneath that, I am a Computer Science student at PCCC in Paterson, NJ, finish
 
 **Also pinned**
 
+- **[JimBro](https://devpost.com/software/jimbro)**: team build at HackPrinceton (Nov 2026). On-device fitness rep counting with MediaPipe pose estimation and movement validation that rejects incorrect reps, plus Claude-powered coaching. Built with React Native, Expo, and FastAPI.
 - **[StudyHelp](https://github.com/as4584/StudyHelp)**: tutoring marketplace. Students get instant AI study help and escalate to vetted human tutors, with chat auto-translated between them. Built with Next.js, FastAPI, and Supabase.
 - **[Lexmakesit](https://github.com/as4584/lexmakesit)**: my studio workspace, home of the AI receptionist platform, my portfolio site, and the tooling behind my client projects. Built with Python and FastAPI.
 - **[Agentops](https://github.com/as4584/Agentops)**: local-first multi-agent AI platform, a control center for running and observing AI agents on my own hardware. Its README documents 1,165+ tests. Built with FastAPI, LangGraph, and Next.js.
